@@ -6,12 +6,12 @@ draft: false
 tags: ["news"]
 ---
 
-Let me show you a quick experiment on how to create a simple personal blogging platform. This is an exercise in how geeky you can get with setting up the platform and how many shurtcuts you can take to avoid building your own blogging engine, database and CMS. You just want to share a few words with the world, that's it. Don't make me work for it I just want to write the content.
+Let me show you a quick experiment on how to create a simple personal blogging platform. This is an exercise in how geeky you can get with setting up a blog and how many shortcuts you can take to avoid building your own blogging engine, database and CMS. You just want to share a few words with the world, you don't want to work for it too hard, but you still want to build it yourself.
 
 ## Prerequisites
 So you know Javascript right? You're familiar with git(Github is your favorite website doh) and you've heard of Markdown for sure. Let's take these three things and setup a simple blog.
 
-There's this odd thing called [Nodejs](nodejs.org). You install it, write a few lines of Javascript code and you have yourself a working web server. You know Javascript and all of a sudden you can do server side programming. Weird. In our case we'll need a few libraries that will come in handy like [Expressjs](expressjs.com) and [Poet](http://jsantell.github.io/poet/) which does most of our blogging engine work.
+There's this odd thing called [Nodejs](nodejs.org). You install it, write a few lines of Javascript code and you have yourself a working web server. You know Javascript and all of a sudden you can do server side programming? Weird. In our case we'll need a few libraries that will come in handy like [Expressjs](expressjs.com) and [Poet](http://jsantell.github.io/poet/) which does most of our blogging engine work.
 
 We'll also need a place to deploy our new blog. I heard that [DigitalOcean](https://www.digitalocean.com/) has some pretty fast servers over there, you might want to check that out.
 
