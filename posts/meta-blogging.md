@@ -33,4 +33,3 @@ Wait, does that mean we're using Github as your blogging CMS? That is correct. G
 ## Run the server
 Once you're done scratching your head installing all the npm dependencies and checking out the git submodule, you are ready to run your web server.
 
-...
