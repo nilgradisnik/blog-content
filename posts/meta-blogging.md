@@ -6,7 +6,7 @@ draft: false
 tags: ["news"]
 ---
 
-Lett me show you a quick experiment on how to create a simple personal blogging platform. This is an exercise in how geeky you can get with setting up a blog and how many shortcuts you can take to avoid building your own blogging engine, database and CMS. You just want to share a few words with the world, you don't want to work for it too hard, but you still want to build it yourself.
+Let me show you a quick experiment on how to create a simple personal blogging platform. This is an exercise in how geeky you can get with setting up a blog and how many shortcuts you can take to avoid building your own blogging engine, database and CMS. You just want to share a few words with the world, you don't want to work for it too hard, but you still want to build it yourself.
 
 <!--more-->
 
