@@ -8,6 +8,8 @@ tags: ["news"]
 
 Let me show you a quick experiment on how to create a simple personal blogging platform. This is an exercise in how geeky you can get with setting up a blog and how many shortcuts you can take to avoid building your own blogging engine, database and CMS. You just want to share a few words with the world, you don't want to work for it too hard, but you still want to build it yourself.
 
+<!--more-->
+
 ## Prerequisites
 So you know Javascript right? You're familiar with git(Github is your favorite website doh) and you've heard of Markdown for sure. Let's take these three things and setup a simple blog.
 
@@ -30,5 +32,3 @@ Wait, does that mean we're using Github as your blogging CMS? That is correct. G
 
 ## Run the server
 Once you're done scratching your head installing all the npm dependencies and checking out the git submodule, you are ready to run your web server.
-
-<!--more-->
