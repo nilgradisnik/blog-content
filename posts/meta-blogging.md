@@ -33,3 +33,7 @@ Wait, does that mean we're using Github as your blogging CMS? That is correct. G
 ## Run the server
 Once you're done scratching your head installing all the npm dependencies and checking out the git submodule, you are ready to run your web server.
 
+## Writing
+Head over to Github and go to your blog-experiment-content fork repo. In the posts folder you can start creating new Markdown files aka blog posts. Commit the changes and bam! you should be able to see new blog posts.
+
+Yes it's that simple. Not really... It's actually not that simple at all. But it was a fun experiment.
