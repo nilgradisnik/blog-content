@@ -1,5 +1,5 @@
 ---
-title: "Meta blogging 1"
+title: "Meta blogging"
 author: "Nil Gradisnik"
 date: "10-25-2013"
 draft: false
